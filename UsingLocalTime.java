@@ -12,7 +12,7 @@ public class UsingLocalTime {
 		System.out.println("Sec: " + now.getSecond());
 		System.out.println("Nano: " + now.getNano());
 		
-		
+		//testing
 		LocalTime start = LocalTime.of(14, 30,40,22333);
 										//hour, minutes, second, nanosecond
 		System.out.println("Local: " + start);
